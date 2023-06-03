@@ -228,4 +228,7 @@ sns.heatmap(data.corr(),annot=True)
 
 ![Screenshot (72)](https://user-images.githubusercontent.com/119477552/235593079-140e7823-47af-455a-9f3d-c130952c6982.png)
 
+RESULT
+
+Thus the Multivariate EDA is performed on the given data set.
 
